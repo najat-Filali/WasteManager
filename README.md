@@ -39,3 +39,15 @@ Commencer par créer un diagramme de classe.
 Une étape supplémentaire pourra être de gérer l'output du programme (JSON, XML, HTML, etc.), 
 lui aussi via des principes de POO
 
+## C02
+Ci dessous des valeurs bidon de CO2 rejettés pour les différents déchets via leur mode de traitement, expimé en kg de CO2/tonne de déchet traité
+* Déchets gris : Incinération (30)
+* Déchets plastiques 
+    * PET : Incinération (40) Recyclage (8)
+    * PVC : Incinération (38) Recyclage (12)
+    * PC : Incinération (42) Recyclage (10)
+    * PEHD : Incinération (35) Recyclage (11)
+* Déchets Carton : Incinération (25) Recyclage (5)
+* Déchets organique : Incinération (28) Compostage (1)
+* Métaux : Incinération (50) Recylcage (7)
+* Verre : Incinération (50) Recyclage (6)
