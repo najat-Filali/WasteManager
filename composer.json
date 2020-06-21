@@ -1,0 +1,16 @@
+{
+    "name": "filal/project-oop",
+    "license": "CCO-1.0",
+    "authors": [
+        {
+            "name": "Najat Filali",
+            "email": "filali_najat@hotmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\":"src/"
+        }
+    }
+}
