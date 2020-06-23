@@ -17,7 +17,7 @@ class Incinerateur {
 
     public function isFull() : bool{
 
-        $capaciteMax = $this->ligneFour*$this->capacite; 
+        $capaciteMax = $this->ligneFour * $this->capacite; 
         if($capaciteMax > $this->nbrDechetsRecus){
             return true; 
         }
