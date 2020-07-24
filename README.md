@@ -53,6 +53,6 @@ Ci dessous des valeurs bidon de CO2 rejettés pour les différents déchets via 
 * Verre : Incinération (50) Recyclage (6)
 
 
-Jean DemelHier à 16:59
-@CPRO12 Le projet Waste Manager devra normalement être soumis sur simplonline vendredi soir (on vous fera les accès et tout d'ici là), j'y jetterai un oeil et je validerai d'ici la prochaine semaine de formation. Pour celleux qui ont du mal avec ce projet, je préfères que vous me fassiez un code limite sans POO ni rien qui traite quand même les données pour les assigner aux bon services de traitement (en mode juste je code pour que ça marche, sans conception ou autre) plutôt que vous ne fassiez rien du tout. Ca aura au moins le mérite de vous faire faire un peu d'algo quand même.
+
+Le projet Waste Manager devra normalement être soumis sur simplonline vendredi soir (on vous fera les accès et tout d'ici là), j'y jetterai un oeil et je validerai d'ici la prochaine semaine de formation. Pour celleux qui ont du mal avec ce projet, je préfères que vous me fassiez un code limite sans POO ni rien qui traite quand même les données pour les assigner aux bon services de traitement (en mode juste je code pour que ça marche, sans conception ou autre) plutôt que vous ne fassiez rien du tout. Ca aura au moins le mérite de vous faire faire un peu d'algo quand même.
 (et n'hésitez pas, si ça peut vous aider, à vous représenter sous forme de schéma non standardisé le chemin que prendrait chaque type de déchet (genre le déchet gris, il va => à l'incinérateur, le déchet organique il va => à un composte => si plein, un autre composte => si tous pleins à l'incinérateur, etc.)

@@ -1,0 +1,20 @@
+{
+    "quartiers": [{
+        "population": 76638,
+        "plastiques": {
+            "PET": 2053.9,
+            "PVC": 1232.34,
+            "PC": 1643.12,
+            "PEHD": 2464.68
+        },
+        "papier": 8626.37,
+        "organique": 12323.39,
+        "verre": 5340.14,
+        "metaux": 1643.12,
+        "autre": 98587.12
+    }],
+    "services": [{
+        "type": "centreTri",
+        "capacite": 4000
+    }]
+}
